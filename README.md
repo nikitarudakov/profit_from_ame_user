@@ -1,4 +1,4 @@
-# HentAI-IASA-DS-Champ
+# IASA-DS-Champ
 В цьому репозиторії ви можете побачити результат праці @Evgeny2411, @nikitarudakov та @antohka151 над завданням відбіркового етапу IASA DS Champ.
 
 Тут знаходиться 5 файлів: два файли jupyter notebook та три файли готових моделей.
